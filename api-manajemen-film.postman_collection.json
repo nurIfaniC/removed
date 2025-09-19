@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "00340675-9924-47ad-a37d-4a621890e7c8",
+		"name": "api-manajemen-film",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "48009075"
+	},
+	"item": [
+		{
+			"name": "movies",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "directors",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
